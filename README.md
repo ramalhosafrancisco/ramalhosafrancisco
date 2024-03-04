@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Francisco Ramalhosa</h1>
+<h1 align="center">Hi, I'm Francisco Ramalhosa!</h1>
 <h3 align="center">I have an academic background in Biological Engineering but at this stage of my professional career I am changing to IT in the fields of Data Analysis and Data Science.</h3>
 
 - 🔭 I’m currently exploring **Data Science and Machine Learning**
