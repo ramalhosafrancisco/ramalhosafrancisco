@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently exploring **Data Science and Machine Learning**
 
-- 🌱 I’m currently learning **Python (pandas, numpy, matplotlib, seaborn, scikit-learn), Pyspark, SQL (Postgresql, BigQuery), Looker Studio, Power BI, GA4, Excel**
+- 🌱 I’m currently learning **Python (pandas, numpy, matplotlib, seaborn, scikit-learn), Pyspark, SQL (Postgresql, BigQuery), Power BI, GA4**
 
 - 👯 I’m looking to collaborate on **Data Analysis and Data Science new projects**
 
